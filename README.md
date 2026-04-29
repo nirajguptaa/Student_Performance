@@ -12,7 +12,7 @@ A Machine Learning based web application that predicts whether a student will **
   - Random Forest
 - Data preprocessing with:
   - Feature Scaling (StandardScaler)
-  - Train–Test Split
+  - Train Test Split
 - Model evaluation using:
   - Accuracy Score
   - Confusion Matrix
