@@ -36,7 +36,7 @@ A Machine Learning based web application that predicts whether a student will **
 
 1. **Data Preparation**
    - Input features (e.g. study hours, marks)
-   - Target variable (0 = Fail, 1 = Pass)
+   - Target variable (0 = Fail & 1 = Pass)
 
 2. **Preprocessing**
    - Features are scaled using **StandardScaler**
