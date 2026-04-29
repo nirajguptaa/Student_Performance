@@ -1,6 +1,6 @@
 # Student Performance Prediction System
 
-A Machine Learning–based web application that predicts whether a student will **PASS or FAIL** based on academic features using classification models. The project uses **Scikit-learn** for model training and **Flask** for real-time predictions through a web interface.
+A Machine Learning based web application that predicts whether a student will **PASS or FAIL** based on academic features using classification models. The project uses **Scikit-learn** for model training and **Flask** for real-time predictions through a web interface.
 
 ---
 
